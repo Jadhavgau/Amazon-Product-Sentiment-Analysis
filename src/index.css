@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "Space Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* Custom Amazon-inspired palette */
+  --color-amazon-orange: #FF9900;
+  --color-amazon-navy: #232F3E;
+  --color-amazon-bg: #F8F9FA;
+  --color-amazon-positive: #2ECC71;
+  --color-amazon-negative: #E74C3C;
+}
+

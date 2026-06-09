@@ -1,0 +1,6 @@
+{
+  "name": "Amazon Sentiment Analyzer & Dashboard",
+  "description": "A professional, responsive sentiment analysis and customer feedback analytics dashboard for Amazon product reviews, powered by Gemini 3.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
